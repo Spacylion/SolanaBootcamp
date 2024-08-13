@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/examples_anchor/programs/example1-lottery/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples_anchor/programs/example2-rps/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples_anchor/programs/example3-consortium/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks_rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks_rust/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/examples_anchor/target" />
+      <excludeFolder url="file://$MODULE_DIR$/homeworks_rust/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
